@@ -1,4 +1,4 @@
-module github.com/integralist/terraform-provider-mock
+module github.com/Integralist/terraform-provider-mock
 
 go 1.19
 
